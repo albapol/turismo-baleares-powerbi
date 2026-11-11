@@ -4,7 +4,7 @@ Informe de Power BI que analiza cómo se ha recuperado el turismo en las Illes B
 
 **Pregunta de negocio:** ¿cómo se ha recuperado el turismo en Baleares tras el COVID, de qué mercados depende y cómo rinden los hoteles a lo largo del año?
 
-![Resumen](capturas/01_resumen.png)
+![Resumen](capturas/01_Resumen.png)
 
 ▶️ [Ver el vídeo del informe (75 s)](video/Turismo_Baleares_demo_v2.mp4) · 📄 [Informe completo en PDF](Turismo_Baleares_Power_BI.pdf)
 
@@ -21,11 +21,11 @@ Informe de Power BI que analiza cómo se ha recuperado el turismo en las Illes B
 
 | Página | Pregunta que responde | Captura |
 | --- | --- | --- |
-| 1. Resumen | ¿Se ha recuperado el turismo? | [Ver](capturas/01_resumen.png) |
-| 2. Mercados y gasto | ¿De qué mercados dependemos y cuáles crecen? | [Ver](capturas/02_mercados.png) |
-| 3. Estacionalidad | ¿Se está alargando la temporada? | [Ver](capturas/03_estacionalidad.png) |
-| 4. Hoteles | ¿Cómo rinden los hoteles a lo largo del año? | [Ver](capturas/04_hoteles.png) |
-| 5. Conclusiones | ¿Qué haría un negocio con estos datos? | [Ver](capturas/05_conclusiones.png) |
+| 1. Resumen | ¿Se ha recuperado el turismo? | [Ver](capturas/01_Resumen.png) |
+| 2. Mercados y gasto | ¿De qué mercados dependemos y cuáles crecen? | [Ver](capturas/02_Mercados%20y%20gasto.png) |
+| 3. Estacionalidad | ¿Se está alargando la temporada? | [Ver](capturas/03_Estacionalidad.png) |
+| 4. Hoteles | ¿Cómo rinden los hoteles a lo largo del año? | [Ver](capturas/04_Hoteles.png) |
+| 5. Conclusiones | ¿Qué haría un negocio con estos datos? | [Ver](capturas/05_Conclusiones.png) |
 
 ## Datos
 
@@ -55,7 +55,7 @@ Los archivos originales están en la carpeta `datos_brutos`, sin modificar: toda
 
 Modelo en constelación: tres tablas de hechos que comparten dos dimensiones. Todas las relaciones son de uno a varios y filtran en una sola dirección.
 
-![Modelo de datos](capturas/06_modelo.png)
+![Modelo de datos](capturas/06_Modelo.png)
 
 | Tabla | Granularidad | Se relaciona con |
 | --- | --- | --- |
